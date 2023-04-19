@@ -2,7 +2,7 @@
 
 ## Assignment-5
 
-### 1. Number of Instances: 13611
+### 1. Number of Instances: 19999
 
 ### 2. Number of Attributes: 17
 
