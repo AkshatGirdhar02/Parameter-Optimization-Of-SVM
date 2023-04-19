@@ -8,7 +8,7 @@
 
 ### 3. Attribute Information:<br>
 
-1.	lettr	capital letter	              (26 values from A to Z)<br>
+1.	Letter	capital letter	            (26 values from A to Z) (Class/Label)<br>
 2.	x-box	horizontal position of box	  (integer)<br>
 3.	y-box	vertical position of box	    (integer)<br>
 4.	width	width of box			            (integer)<br>
